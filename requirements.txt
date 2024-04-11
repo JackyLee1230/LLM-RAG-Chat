@@ -1,0 +1,6 @@
+langchain
+langchain_community
+langchain_openai
+openai
+sentence-transformers=2.2.1
+nltk
